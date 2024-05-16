@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|d:\\dev\\github repositories\\ugc_project\\ugc_project\\ugc_project\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\contactpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\formbasic.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\formbasic.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\default.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\researchprojectsubmissionform(english).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\researchprojectsubmissionform(english).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0AB39F6F-DB0E-44A9-82E1-19E7586AFF3E}|ugc_project\\ugc_project.csproj|solutionrelative:ugc_project\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Style.css",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\CSS\\Style.css",
+              "RelativeDocumentMoniker": "ugc_project\\CSS\\Style.css",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\CSS\\Style.css",
+              "RelativeToolTip": "ugc_project\\CSS\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T08:48:37.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactPage.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\ContactPage.aspx",
+              "RelativeDocumentMoniker": "ugc_project\\ContactPage.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\ContactPage.aspx",
+              "RelativeToolTip": "ugc_project\\ContactPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T17:44:51.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBasic.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\FormBasic.aspx",
+              "RelativeDocumentMoniker": "ugc_project\\FormBasic.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\FormBasic.aspx",
+              "RelativeToolTip": "ugc_project\\FormBasic.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T17:44:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResearchProjectSubmissionForm(English).aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\ResearchProjectSubmissionForm(English).aspx",
+              "RelativeDocumentMoniker": "ugc_project\\ResearchProjectSubmissionForm(English).aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\ResearchProjectSubmissionForm(English).aspx",
+              "RelativeToolTip": "ugc_project\\ResearchProjectSubmissionForm(English).aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-14T09:18:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.Master",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\Default.Master",
+              "RelativeDocumentMoniker": "ugc_project\\Default.Master",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\Default.Master",
+              "RelativeToolTip": "ugc_project\\Default.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T18:13:37.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\Default.aspx",
+              "RelativeDocumentMoniker": "ugc_project\\Default.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\ugc_project\\ugc_project\\ugc_project\\Default.aspx",
+              "RelativeToolTip": "ugc_project\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T18:17:06.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
