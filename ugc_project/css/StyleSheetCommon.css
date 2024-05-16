@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.gradeX li {
+border-bottom:1px solid black;
+padding-left:5px;
+}
+.table-responsive {
+    overflow-x: clip!important;
+}
+dt, dd {
+    border-top: 1px solid rgba(0, 0, 0, .125);
+}
+

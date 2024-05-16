@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\Github Repositories\\research_project_management_software\\Project1|d:\\dev\\github repositories\\research_project_management_software\\project1\\form_submission_of_final_report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\Github Repositories\\research_project_management_software\\Project1|solutionrelative:form_submission_of_final_report.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\final_expert_review.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|solutionrelative:final_expert_review.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\proforma_submission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|solutionrelative:proforma_submission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\adminltetemplate\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54171436-6BD5-451F-B66C-3E7560C95890}|D:\\Dev\\UGC\\Project1\\V0|solutionrelative:adminltetemplate\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proforma_submission.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\proforma_submission.aspx",
+              "RelativeDocumentMoniker": "proforma_submission.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\proforma_submission.aspx",
+              "RelativeToolTip": "proforma_submission.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T13:34:10.824Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "final_expert_review.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\final_expert_review.aspx",
+              "RelativeDocumentMoniker": "final_expert_review.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\final_expert_review.aspx",
+              "RelativeToolTip": "final_expert_review.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T13:47:05.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form_submission_of_final_report.aspx",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\form_submission_of_final_report.aspx",
+              "RelativeDocumentMoniker": "form_submission_of_final_report.aspx",
+              "ToolTip": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\form_submission_of_final_report.aspx",
+              "RelativeToolTip": "form_submission_of_final_report.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T13:13:04.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\AdminLTETemplate\\index.html",
+              "RelativeDocumentMoniker": "AdminLTETemplate\\index.html",
+              "ToolTip": "D:\\Dev\\Github Repositories\\research_project_management_software\\Project1\\AdminLTETemplate\\index.html",
+              "RelativeToolTip": "AdminLTETemplate\\index.html",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-15T09:36:01.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
